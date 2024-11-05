@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sapphire820
+- 🌱 I’m currently learning Data Science and Machine Learning.
+- 💞️ I’m looking to collaborate on fullstack web and mobile applications.
+- 📫 How to reach me - Discord @dracon088
