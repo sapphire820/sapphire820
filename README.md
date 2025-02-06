@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coding+wizard+and+dedicated+learner;Seeking+knowledge+with+every+keystroke;Fueled+by+curiosity+and+dedication;Coding+my+way+to+excellence&center=true&width=500&height=50"></a>
 </p>
-I have been working as a software engineer for over 6 years and developed a strong background in web and mobile application development.<br>
+I have been working as a software engineer for over 10 years and developed a strong background in web and mobile application development.<br>
 <br>
 I am proficient with
 <br><br>
